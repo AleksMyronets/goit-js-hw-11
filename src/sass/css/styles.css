@@ -1,5 +1,5 @@
 .header {
-    background-color: gray;
+    background-color: tomato;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-top: 20px;
@@ -15,6 +15,7 @@
 .input {
     padding-left: 20px;
     border-radius: 25px;
+    border-color: #403f3f;
     border:rgba(0, 0, 0, 0.3);
 }
 
@@ -26,7 +27,7 @@
     line-height: 30px;
     font-weight: 400;
     border: none;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 
 .btn-submit:hover {
